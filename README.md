@@ -5,7 +5,7 @@
 
 ![GitHub stats](https://github-readme-stats-alpha-nine-47.vercel.app/api?username=Thalesmn2004&show_icons=true&theme=radical)
 
-<a href="https://github.com/Thalesmn2004"><img alt="TM'S Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalesmn2004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1115" /></a> <a href="https://github.com/Thalesmn2004"><img alt="Igor Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesmn2004&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1115" />
+<img alt="TM's Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesmn2004&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1115" />
 </a>
 
 ### Tecnologias que eu uso
